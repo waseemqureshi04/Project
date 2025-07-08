@@ -1,4 +1,4 @@
-# Namaste React 🚀
+# React JS🚀
 
 
 # Parcel
@@ -22,7 +22,7 @@
 
 
 
-# Namaste Food
+# FoodSite
 
 
 /**
